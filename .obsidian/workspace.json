@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "3a0f4fce11aa43b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe14b263f4ddeaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e762136884dfdf31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33626b174528d4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf3e603e3e12a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039bb79aae3ec74d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9693adf8395c1783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c2724e05fc7c2dcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39c789909a5e55c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c32873499478e7c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "301d24475541927f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog"
+            }
+          },
+          {
+            "id": "9d9fd7875d286b31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog"
+            }
+          },
+          {
+            "id": "67a4e6a621df71b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30bda2f39668226e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e762136884dfdf31",
+  "lastOpenFiles": [
+    "Elementos Sintetizáveis e Não Sintetizáveis em SystemVerilog.md"
+  ]
+}
