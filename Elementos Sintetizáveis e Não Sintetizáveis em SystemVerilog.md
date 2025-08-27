@@ -1,4 +1,4 @@
-
+<!doctype html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
@@ -145,9 +145,9 @@
       </tr>
     </tbody>
   </table>
-	<br></br>
+
   <footer>
     *Observação: algumas ferramentas permitem inicializar ROM/BRAM a partir de arquivos em fluxo de síntese, mas o uso das chamadas de sistema em tempo de execução é típico de simulação.
   </footer>
 </body>
-
+</html>
