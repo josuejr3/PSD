@@ -1,26 +1,3 @@
-<!doctype html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Referência rápida — SystemVerilog: Sintetizável vs. Não sintetizável</title>
-  <style>
-    :root { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
-    body { margin: 24px; line-height: 1.5; }
-    h1 { margin-bottom: 8px; }
-    h2 { margin-top: 28px; margin-bottom: 8px; }
-    .hint { color: #444; margin-bottom: 20px; }
-    table { width: 100%; border-collapse: collapse; margin: 12px 0 24px; }
-    th, td { border: 1px solid #ddd; padding: 10px; vertical-align: top; }
-    th { background: #f7f7f7; text-align: left; }
-    tbody tr:nth-child(odd) { background: #fafafa; }
-    .tag { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; font-weight: 600; }
-    .yes { background: #e6f6ea; color: #116138; border: 1px solid #bde5cc; }
-    .no  { background: #fdeaea; color: #7f1d1d; border: 1px solid #f5c2c0; }
-    code { background: #f5f5f5; padding: 2px 6px; border-radius: 6px; }
-    footer { color: #666; font-size: 13px; margin-top: 24px; }
-  </style>
-</head>
 <body>
   <h1>SystemVerilog — Sintetizável vs. Não sintetizável</h1>
   <p class="hint">Referência rápida para saber o que pode ir para FPGA/ASIC (sintetizável) e o que é apenas para simulação (testbench).</p>
