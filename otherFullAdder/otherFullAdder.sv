@@ -1,0 +1,14 @@
+/* Somador 4 bits por fluxo de dados com operadores aritméticos e de concatenação/replicação */
+
+
+module otherFullAdder (
+    input logic [3:0] number1, number2, 
+    input logic carryin, 
+    output logic [3:0] result, 
+    output logic carryout
+);
+
+    // O conjunto de carryout e result
+    assign {carryout, result} = number1 + number2 + carryin;
+
+endmodule: otherFullAdder

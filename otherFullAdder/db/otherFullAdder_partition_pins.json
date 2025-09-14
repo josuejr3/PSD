@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "carryout",
+					"strict" : false
+				},
+				{
+					"name" : "carryin",
+					"strict" : false
+				},
+				{
+					"name" : "number2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "number1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "number2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "number1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "number2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "number1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "number2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "number1[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

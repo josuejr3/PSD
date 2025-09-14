@@ -1,0 +1,61 @@
+|fourBitAdder
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+cin => cin.IN1
+s[0] <= fullAdder:fullAdderOne.s
+s[1] <= fullAdder:fullAdderTwo.s
+s[2] <= fullAdder:fullAdderThree.s
+s[3] <= fullAdder:fullAdderFour.s
+cout <= fullAdder:fullAdderFour.cout
+
+
+|fourBitAdder|fullAdder:fullAdderOne
+a => u0.IN0
+a => u3.IN0
+b => u0.IN1
+b => u3.IN1
+cin => u1.IN1
+cin => u2.IN1
+s <= u1.DB_MAX_OUTPUT_PORT_TYPE
+cout <= u4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fourBitAdder|fullAdder:fullAdderTwo
+a => u0.IN0
+a => u3.IN0
+b => u0.IN1
+b => u3.IN1
+cin => u1.IN1
+cin => u2.IN1
+s <= u1.DB_MAX_OUTPUT_PORT_TYPE
+cout <= u4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fourBitAdder|fullAdder:fullAdderThree
+a => u0.IN0
+a => u3.IN0
+b => u0.IN1
+b => u3.IN1
+cin => u1.IN1
+cin => u2.IN1
+s <= u1.DB_MAX_OUTPUT_PORT_TYPE
+cout <= u4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fourBitAdder|fullAdder:fullAdderFour
+a => u0.IN0
+a => u3.IN0
+b => u0.IN1
+b => u3.IN1
+cin => u1.IN1
+cin => u2.IN1
+s <= u1.DB_MAX_OUTPUT_PORT_TYPE
+cout <= u4.DB_MAX_OUTPUT_PORT_TYPE
+
+

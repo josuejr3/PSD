@@ -1,0 +1,20 @@
+/* Comparador de Magnitude com operadores comparadores */
+
+module newCompare (
+
+	input logic [3:0] a, b,
+	output lgogic agtb, aeqb, altb
+
+);
+
+
+	/* Abordagem por fluxo de dados
+	somente quando a e b forem iguais
+	a saida aeqb vai receber nivel 1 */
+
+	assign aeqb = (a==b);
+	assign altb = (a > b);
+	assign agtb = (a < b);
+
+
+endmodule: newCompare

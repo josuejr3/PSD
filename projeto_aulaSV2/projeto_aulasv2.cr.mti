@@ -1,0 +1,10 @@
+{D:/Josue/Engenharia de Computacao/Quinto Periodo/PSD/projeto_aulaSV2/projeto_aulasv2.sv} {1 {vlog -work work -sv -stats=none {D:\Josue\Engenharia de Computacao\Quinto Periodo\PSD\projeto_aulaSV2\projeto_aulasv2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module projeto_aulasv2
+-- Compiling module projeto_aulasv2_always_comb
+
+Top level modules:
+	projeto_aulasv2
+	projeto_aulasv2_always_comb
+
+} {} {}}

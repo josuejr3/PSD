@@ -1,0 +1,17 @@
+|otherFullAdder
+number1[0] => _.DATAD
+number1[1] => _.DATAD
+number1[2] => _.DATAD
+number1[3] => _.DATAD
+number2[0] => _.DATAC
+number2[1] => _.DATAC
+number2[2] => _.DATAC
+number2[3] => _.DATAC
+carryin => _.DATAB
+result[0] <= _.SUM_OUT
+result[1] <= _.SUM_OUT
+result[2] <= _.SUM_OUT
+result[3] <= _.SUM_OUT
+carryout <= _.SUM_OUT
+
+
